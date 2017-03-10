@@ -1,0 +1,24 @@
+table {
+	border-collapse: collapse;
+}
+
+.player, .grass {
+	background-size: contain;
+    height: 10vh;
+}
+
+/*.player {
+	background-image: url('../img/mario.jpg');
+}*/
+
+.grass {
+	background-image: url('../img/grass.jpg');
+}
+
+.border{
+	border: solid 1px;
+}
+
+img {
+	width:88%;
+}
